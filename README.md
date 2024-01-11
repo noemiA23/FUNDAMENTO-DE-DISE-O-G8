@@ -46,5 +46,5 @@ H2 Header (Underline)
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 7" width="300px" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Fespanol%2Fvida-y-estilo%2Farticulo%2F2020-08-08%2Fhoyla-recuento-11-cosas-aman-gatos-top&psig=AOvVaw0Yvv8jiMD3Z6vzjbc4rBWf&ust=1705077206836000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKitht3h1YMDFQAAAAAdAAAAABAE" alt="FOTO ODS 7" width="300px" />
 </p>
