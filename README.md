@@ -46,5 +46,5 @@ H2 Header (Underline)
 
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Fespanol%2Fvida-y-estilo%2Farticulo%2F2020-08-08%2Fhoyla-recuento-11-cosas-aman-gatos-top&psig=AOvVaw0Yvv8jiMD3Z6vzjbc4rBWf&ust=1705077206836000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKitht3h1YMDFQAAAAAdAAAAABAE" alt="FOTO ODS 7" width="300px" />
+  <img src="https://ca-times.brightspotcdn.com/dims4/default/796e6c9/2147483647/strip/true/crop/1970x1108+39+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Fa5%2F79e097ccf62312d18a025f22ce48%2Fhoyla-recuento-11-cosas-aman-gatos-top-001" alt="FOTO ODS 7" width="300px" />
 </p>
