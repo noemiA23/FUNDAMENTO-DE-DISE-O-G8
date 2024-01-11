@@ -81,7 +81,7 @@ H2 Header (Underline)
 *Tabla de contenido*
 
 1. [foto](#foto)
-3. [Miembros](#editor.md)
+3. [Miembros](#editormd)
 4. [ODS 7](#ods-7-energia-asequible-y-no-contaminante)
    - [Objetivo](#el-objetivo-principal-es-proporcionar-energía-asequible-y-económica-a-la-población-peruana-sin-dañar-los-diversos-ecosistemas)
 
