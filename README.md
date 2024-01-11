@@ -43,3 +43,8 @@ H2 Header (Underline)
 -------------
 
 ###Characters
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 7" width="300px" />
+</p>
