@@ -1,7 +1,7 @@
 # FUNDAMENTO-DE-DISE-O-G8
 
 
-Buenas noches con todos mi nombre es Noemi Arquiño solo decirles que nunca abandonen su sueño siempre hay obstaculos y caídas pero de ello se aprende y se vueleve mas fuerte e invensible que nunca y seguir esforzandose por nuestras metas y objetivos hasta cumplirlos.
+Buenas noches con todos solo decirles que nunca abandonen su sueño siempre hay obstaculos y caídas pero de ello se aprende y se vueleve mas fuerte e invensible que nunca y seguir esforzandose por nuestras metas y objetivos hasta cumplirlos.
 
 
 
