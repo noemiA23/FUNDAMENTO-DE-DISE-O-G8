@@ -13,38 +13,10 @@ i love you cat ❤
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*Tabla de contenido*
+*MY FUTURE*
 
 1. [foto](#foto)
-3. [EDITOR](#editormd)
-4. [H2](#h2-header-underline)
-   - [Objetivo](#el-objetivo-principal-es-proporcionar-energía-asequible-y-económica-a-la-población-peruana-sin-dañar-los-diversos-ecosistemas)
-
-5. [Contenido de Carpetas](#contenido-de-las-carpetas)
-6. [Tablas](#probando-con-tablas)
+3. [colección](colección)
+4. [H2](paseo-paseo)
+5. [metas](metas)
+6. [mi_carrera](mi_carrera)
