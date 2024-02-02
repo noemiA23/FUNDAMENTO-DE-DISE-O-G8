@@ -17,6 +17,6 @@ i love you cat ❤
 
 1. [foto](#foto)
 3. [colección](colección)
-4. [H2](paseo-paseo)
+4. [Ingeniería_Informática](Ingeniería_Informática)
 5. [metas](metas)
 6. [mi_carrera](mi_carrera)
